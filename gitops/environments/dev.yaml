@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: environment-config
-  namespace: dev
-data:
-  environment: dev
